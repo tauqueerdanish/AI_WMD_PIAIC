@@ -1,0 +1,13 @@
+"use strict";
+let visitingPlaces = ['London', 'Islamabad', 'Turkey', 'New York', 'Canada'];
+let visitingPlacesCopy = [...visitingPlaces];
+console.log(visitingPlacesCopy);
+console.log(visitingPlacesCopy.sort());
+console.log(visitingPlaces);
+console.log(visitingPlacesCopy.sort().reverse());
+console.log(visitingPlaces);
+console.log(visitingPlaces.reverse());
+console.log(visitingPlaces.reverse());
+console.log(visitingPlaces.sort());
+console.log(visitingPlaces);
+console.log(visitingPlaces.sort().reverse());
