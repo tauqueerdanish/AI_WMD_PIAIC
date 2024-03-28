@@ -1,4 +1,4 @@
-FastAPI Student Management App
+FastAPI Student Management App/n
 Overview
 This repository contains a FastAPI application for managing a global list of students in memory. The objective of this assignment is to create a RESTful API using FastAPI to perform CRUD operations on student data.
 
