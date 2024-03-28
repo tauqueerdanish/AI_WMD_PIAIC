@@ -1,4 +1,5 @@
-FastAPI Student Management App/n
+
+##FastAPI Student Management App
 Overview
 This repository contains a FastAPI application for managing a global list of students in memory. The objective of this assignment is to create a RESTful API using FastAPI to perform CRUD operations on student data.
 
@@ -27,14 +28,20 @@ Poetry package manager
 Steps
 Clone the repository:
 
-git clone: https://github.com/QasimVibes/fastapi-crud-operations.git
+bash
+Copy code
+git clone https://github.com/tauqueerdanish/AI_WMD_PIAIC/tree/main/Quarter%203/Assignment01
 Install project dependencies using Poetry:
 
+Copy code
 poetry install
 Run the FastAPI application:
 
+arduino
+Copy code
 poetry run dev
-Access the API documentation: Once the application is running, you can access the API documentation by visiting http://localhost:8080/docs in your web browser. This interactive documentation is generated automatically by FastAPI and provides details about the available endpoints, request/response schemas, and allows you to test the API endpoints directly from the browser.
+Access the API documentation
+Once the application is running, you can access the API documentation by visiting http://localhost:8080/docs in your web browser. This interactive documentation is generated automatically by FastAPI and provides details about the available endpoints, request/response schemas, and allows you to test the API endpoints directly from the browser.
 
 Notes
 Ensure that you follow best practices for secure and efficient API development.
